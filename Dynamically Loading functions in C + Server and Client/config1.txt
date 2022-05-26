@@ -1,0 +1,6 @@
+#command,library name,function name, helpMessage
+help,stubs.so,help,This is from the stubs.so
+time,stubs.so,timeFunc,This is from stubs.so
+prod,stubs.so,prod,This is from the stubs.so
+files,stubs.so,files,This is from the stubs.so
+convert,stubs.so,convert,This is from stubs.so

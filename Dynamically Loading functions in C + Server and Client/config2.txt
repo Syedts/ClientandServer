@@ -1,0 +1,6 @@
+#command,library name,function name, helpMessage
+help,impl.so,help,This is from the Impl shared library
+time,impl.so,timeFunc,This is from the Impl shared library
+prod,impl.so,prod,This is from the Impl shared library
+files,impl.so,files,This is from the Impl shared library
+convert,impl.so,convert,This is from the Impl shared library
